@@ -1,6 +1,7 @@
 ---
 fullname: Mathieu Gimenez
 role: Responsable de portefeuille
+github: mathgim
 domaine: Animation
 link: https://www.linkedin.com/in/mathieugimenez/
 missions:
